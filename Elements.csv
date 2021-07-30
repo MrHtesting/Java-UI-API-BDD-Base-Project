@@ -1,0 +1,7 @@
+text,selector,selectorType
+first,ada,class
+second,bab,TAG
+Search,q,name
+Submit button,btnK,Name
+Text Check,//*[@id="cmsinfo_block"]/div[2]/p[2],xpath
+Text Check 2,//*[@id="editorial_block_center"]/div/p,xpath
